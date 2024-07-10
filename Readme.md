@@ -36,13 +36,13 @@ For Parkinsons SVC model used with 88% accuracy
 
 ### Clone the repository:
 
-````bash
+```bash
 git clone https://github.com/apk471/mdps.git
-cd mdps ```
-````
+cd mdps
+```
 
 ### Install Requirements
 
-````bash
-pip install -r requirements.txt```
-````
+```bash
+pip install -r requirements.txt
+```

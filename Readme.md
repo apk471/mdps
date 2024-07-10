@@ -2,7 +2,7 @@
 
 ## Test Out The App
 
-Deloyed App: https://diseasesprediction.streamlit.app/
+Deloyed App: <a href="https://diseasesprediction.streamlit.app/">App Link</a>
 
 ## Overview
 
